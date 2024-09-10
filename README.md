@@ -9,10 +9,10 @@ The goal of this data is to determine whether the TikTok user made a claim of a 
 
 # The Data
 The data consists of 4 categorical types of data including:
- - Claim_status: A binary choice of options. \textbf{Opinion}, where the content of the video is determined to contain the opinion of a TikTok creator. \textbf{Claim}, where the content of the video is determined to contain a claim made by a TikTok Creator.
+ - Claim_status: A binary choice of options. **Opinion**, where the content of the video is determined to contain the opinion of a TikTok creator. **Claim**, where the content of the video is determined to contain a claim made by a TikTok Creator.
  - Video_transcription_text: contains a transcription of the TikTok video
- - Verified_status: A binary choice of options. \textbf{Not verified}, where the TikTok creator is not a verified account. \textbf{Verified}, the TikTok creator is a verified account.
- - Author_ban_status: TikTok creators are active, \textbf{under review} or \textbf{banned}.
+ - Verified_status: A binary choice of options. **Not verified**, where the TikTok creator is not a verified account. **Verified**, the TikTok creator is a verified account.
+ - Author_ban_status: TikTok creators are active, **under review** or **banned**.
 We also have a 7 numerical data types:
  - Video_id: The video ID of the respective video
  - Video_duration_sec: The duration of the video in seconds
